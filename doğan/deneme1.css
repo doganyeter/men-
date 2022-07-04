@@ -1,0 +1,71 @@
+body{
+	
+}
+.kapsa{
+	height: 1100px;
+}
+.logo{
+	width: 200px;
+	height:200px;
+	background-color: blue;
+	float: left;
+}
+.logo2{
+	width: 200px;
+    height: 200px;
+	background-color: green;
+	float: right;
+	
+}
+.menu{
+	float: left;
+	background-color: black;
+	width:1065px;
+	margin-top: 50px;
+}
+ul{
+	float: left;
+	text-align:center;
+	list-style-type: none;
+}
+li{
+	float: left;
+	
+}
+li a{
+	float: left;
+	text-decoration: none;
+	color: white;
+	padding: 16px 55px;
+}
+li :hover{
+	background-color: white;
+	color: black;
+}
+.gövde{
+	float:left;
+	width:980px;
+	height: 700px;
+	background-color: ;
+	margin-left: 250px;
+}
+.footer{
+	width: 1473px;
+	height: 200px;
+	background-color:grey;
+	float: left;
+}
+h4{
+	margin-left:50px;
+}
+.filetisim{
+	float:left;
+}
+.fhakkimizda{
+	float: left;
+	margin-left: 50px;
+}
+.fkaynakca{
+	float: left;
+	margin-left: 50px;
+}
